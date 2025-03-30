@@ -31,6 +31,7 @@ This document provides a detailed summary of the Data Warehouse Development & Bu
 ![image](https://github.com/user-attachments/assets/dfce0a56-7f76-4add-bcc6-c7895ce91df7)
 
 This report analyzes sales trends for a specific menu category over Q4 from 2021 to 2023, providing insights into total quantities sold, year-over-year changes, and percentage variations. It aids businesses in understanding past sales patterns and forecasting future performance to optimize menu offerings.    
+
 Key Findings:    
 - **Recovered Items**: Curry Puff (-11.51% to 20.84%) and Onion Rings (-4.85% to 11.13%) rebounded from previous declines.
 - **Consistently Growing Items**: Otak-Otak, Spring Rolls, and Dumplings maintained steady growth, indicating strong consumer demand.
@@ -44,6 +45,11 @@ Recommended Actions:
 - **Stable Performers (-5% to +5% change)**: Bundle with popular items to enhance visibility and drive sales.
 
 ### 5.2 2023-2024 Average Monthly Quantity and Order Changes for Appetizer Items
+![image](https://github.com/user-attachments/assets/cca593d2-f95b-44fc-882e-6adb41db6db9)   
+![image](https://github.com/user-attachments/assets/bd516907-3bae-4867-8e93-809e0dbd1423)
+![image](https://github.com/user-attachments/assets/db89f327-c031-4eb0-8e22-fed131d4e845)
+
+
 
 
 ### 5.3 Lowest 15% Order Share States by Time Period in 2024
