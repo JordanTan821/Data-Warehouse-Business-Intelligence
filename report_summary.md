@@ -27,7 +27,7 @@ This document provides a detailed summary of the Data Warehouse Development & Bu
 ## 5. SQL Query Development and Result
 ### 5.1 Sales Trends Analysis Appetizer Items in Q4 (2021-2023)    
 ![image](https://github.com/user-attachments/assets/b9749953-77cd-447c-8eac-c7003e275f04)
-![image](https://github.com/user-attachments/assets/00d62355-1710-4359-9768-b87be767082a)
+![image](https://github.com/user-attachments/assets/140f52aa-da7b-49fe-8c78-a4d28c5f8618)
 
 ### 5.2 2023-2024 Average Monthly Quantity and Order Changes for Appetizer Items
 
