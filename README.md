@@ -10,7 +10,7 @@ This repository contains my individual contributions to the Data Warehouse Devel
 
 • **SQL Query Development:** Wrote optimized queries for business insights and reporting.       
 
-• **Data Visualization:** Built Power BI dashboards to analyze sales performance and customer trends.       
+• **Data Visualization:** Built Excel dashboards to analyze sales performance and customer trends.       
 
 ## Technologies Used
 • **Oracle SQL** – Data extraction, transformation, and analysis
