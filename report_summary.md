@@ -26,6 +26,9 @@ This document provides a detailed summary of the Data Warehouse Development & Bu
 
 ## 5. SQL Query Development and Result
 ### 5.1 Sales Trends Analysis Appetizer Items in Q4 (2021-2023)    
+SQL Code:
+[query1.sql](sql/query1.sql)    
+
 ![image](https://github.com/user-attachments/assets/b9749953-77cd-447c-8eac-c7003e275f04)
 ![image](https://github.com/user-attachments/assets/140f52aa-da7b-49fe-8c78-a4d28c5f8618)   
 ![image](https://github.com/user-attachments/assets/dfce0a56-7f76-4add-bcc6-c7895ce91df7)
@@ -44,7 +47,10 @@ Recommended Actions:
 - **Declining Item (Popiah)**: Improve quality, introduce discounts, or bundle with top-selling items.
 - **Stable Performers (-5% to +5% change)**: Bundle with popular items to enhance visibility and drive sales.
 
-### 5.2 2023-2024 Average Monthly Quantity and Order Changes for Appetizer Items
+### 5.2 2023-2024 Average Monthly Quantity and Order Changes for Appetizer Items   
+SQL Code:
+[query2.sql](sql/query2.sql)      
+
 ![image](https://github.com/user-attachments/assets/cca593d2-f95b-44fc-882e-6adb41db6db9)   
 ![image](https://github.com/user-attachments/assets/bd516907-3bae-4867-8e93-809e0dbd1423)
 ![image](https://github.com/user-attachments/assets/db89f327-c031-4eb0-8e22-fed131d4e845)    
@@ -59,7 +65,10 @@ Recommended Actions:
 - **High Growth Items**: Leverage marketing and promotions to sustain momentum, increase inventory to meet demand.
 - **Stable Performers**: Introduce add-on deals or bundle offers to boost visibility and encourage sales.    
 
-### 5.3 Lowest 15% Order Share States by Time Period in 2024
+### 5.3 Lowest 15% Order Share States by Time Period in 2024      
+SQL Code:
+[query3.sql](sql/query3.sql)       
+
 ![image](https://github.com/user-attachments/assets/71112c08-ecb0-44e3-b1ec-3cc157b96663)
 ![image](https://github.com/user-attachments/assets/08f3e1b4-92fa-4728-91fb-68cb74c656bd)
 ![image](https://github.com/user-attachments/assets/b3304dbb-b989-44ec-90a4-f6e227eafab2)
