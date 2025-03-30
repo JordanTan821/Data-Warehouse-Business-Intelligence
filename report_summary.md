@@ -13,11 +13,11 @@ This document provides a detailed summary of the Data Warehouse Development & Bu
 • Ensures data consistency and eliminates duplicates before final insertion.      
 
 ### 3.2 Subsequent Data Load
-• The [subsequent_load.sql](subsequent_load.sql) script handles periodic data updates while maintaining integrity.    
+• The [subsequent_load.sql](sql/subsequent_load.sql) script handles periodic data updates while maintaining integrity.    
 • It ensures that only new or updated records are added to the warehouse.     
 
 ## 4. Slowly Changing Dimension (SCD) Type 2 Maintenance     
-• The [scd2_update.sql](scd2_update.sql) script implements SCD Type 2 to track historical changes in menu item prices.     
+• The [scd2_update.sql](sql/scd2_update.sql) script implements SCD Type 2 to track historical changes in menu item prices.    
 • This approach allows retaining past records while inserting updated versions with effective and expiration dates.      
 • The process includes:      
  1. Identifying the current active record for a menu item.    
