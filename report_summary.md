@@ -2,7 +2,7 @@
 This document provides a detailed summary of the Data Warehouse Development & Business Intelligence (DWBI) project, focusing on data warehouse design, ETL processes, SQL query development, and data visualization.
 
 ## 2. Data Warehouse Design
-• The schema_creation.sql(sql/initial_load.sql) script defines the structure of the data warehouse, including fact and dimension tables.     
+• The [schema_creation.sql](sql/initial_load.sql) script defines the structure of the data warehouse, including fact and dimension tables.     
 • The schema follows a star schema model for optimized analytical processing     
 
 ![image](https://github.com/user-attachments/assets/e80018c7-9cc5-4d15-bb9a-046b039b5550)
