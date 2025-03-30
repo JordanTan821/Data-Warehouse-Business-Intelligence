@@ -26,7 +26,7 @@ This document provides a detailed summary of the Data Warehouse Development & Bu
 
 ## 5. SQL Query Development and Result
 ### 5.1 Sales Trends Analysis Appetizer Items in Q4 (2021-2023)    
-SQL Code:
+**SQL Code:**
 [query1.sql](sql/query1.sql)    
 
 ![image](https://github.com/user-attachments/assets/b9749953-77cd-447c-8eac-c7003e275f04)
@@ -48,7 +48,7 @@ Recommended Actions:
 - **Stable Performers (-5% to +5% change)**: Bundle with popular items to enhance visibility and drive sales.
 
 ### 5.2 2023-2024 Average Monthly Quantity and Order Changes for Appetizer Items   
-SQL Code:
+**SQL Code:**
 [query2.sql](sql/query2.sql)      
 
 ![image](https://github.com/user-attachments/assets/cca593d2-f95b-44fc-882e-6adb41db6db9)   
@@ -66,7 +66,7 @@ Recommended Actions:
 - **Stable Performers**: Introduce add-on deals or bundle offers to boost visibility and encourage sales.    
 
 ### 5.3 Lowest 15% Order Share States by Time Period in 2024      
-SQL Code:
+**SQL Code:**
 [query3.sql](sql/query3.sql)       
 
 ![image](https://github.com/user-attachments/assets/71112c08-ecb0-44e3-b1ec-3cc157b96663)
