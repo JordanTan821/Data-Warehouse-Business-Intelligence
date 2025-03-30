@@ -31,8 +31,18 @@ This document provides a detailed summary of the Data Warehouse Development & Bu
 ![image](https://github.com/user-attachments/assets/dfce0a56-7f76-4add-bcc6-c7895ce91df7)
 
 This report analyzes sales trends for a specific menu category over Q4 from 2021 to 2023, providing insights into total quantities sold, year-over-year changes, and percentage variations. It aids businesses in understanding past sales patterns and forecasting future performance to optimize menu offerings.    
-Key Findings:
-    •
+Key Findings:    
+- **Recovered Items**: Curry Puff (-11.51% to 20.84%) and Onion Rings (-4.85% to 11.13%) rebounded from previous declines.
+- **Consistently Growing Items**: Otak-Otak, Spring Rolls, and Dumplings maintained steady growth, indicating strong consumer demand.
+- **Fluctuating Items**: Garlic Bread, Popiah, and Sate Ayam showed inconsistent trends.
+- **High Growth Opportunities**: Otak-Otak (10.79%), Takoyaki (8.31%), Spring Rolls (5.94%), and Wanton (5.11%) indicate strong demand.
+- **Performance Concern**: Popiah (-5.9%) shows a declining trend.
+
+Recommended Actions:
+- **High Growth Items**: Increase inventory and invest in marketing to capitalize on demand.
+- **Declining Item (Popiah)**: Improve quality, introduce discounts, or bundle with top-selling items.
+- **Stable Performers (-5% to +5% change)**: Bundle with popular items to enhance visibility and drive sales.
+
 ### 5.2 2023-2024 Average Monthly Quantity and Order Changes for Appetizer Items
 
 
