@@ -20,7 +20,7 @@ This document provides a detailed summary of the Data Warehouse Development & Bu
 • The scd2_update.sql script implements SCD Type 2 to track historical changes in menu item prices.     
 • This approach allows retaining past records while inserting updated versions with effective and expiration dates.      
 • The process includes:      
-    1. Identifying the current active record for a menu item.    
+  - Identifying the current active record for a menu item.    
     2. Updating the expiration date of the old record.       
     3.Inserting a new record with the updated price and effective date.
 
