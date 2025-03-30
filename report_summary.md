@@ -25,78 +25,10 @@ This document provides a detailed summary of the Data Warehouse Development & Bu
     3.Inserting a new record with the updated price and effective date.
 
 ## 5. SQL Query Development and Result
-### 5.1 Sales Trends Analysis Appetizer Items in Q4 (2021-2023)
- Sales Trends Analysis APPETIZER Items in Q4 (2021-2023)
- Date: 12/09/2024
- Page 1
- Item Name Year Total Quantity Quantity Change Percentage Change(%)--------------------------------------------------------------------------------
-CURRY PUFFS 2021 591
- 2022 523-68-11.51
- 2023 632 109 20.84
- ***************************-------------------
-Average: 4.67
- DUMPLINGS 2021 580
- 2022 610 30 5.17
- 2023 631 21 3.44
- ***************************-------------------
-Average: 4.31
- GARLIC BREAD 2021 625
- 2022 770 145 23.20
- 2023 600-170-22.08
- ***************************-------------------
-Average: 0.56
- GYOZA 2021 673
- 2022 660-13-1.93
- 2023 698 38 5.76
- ***************************-------------------
-Average: 1.92
- ONION RINGS 2021 680
- 2022 647-33-4.85
- 2023 719 72 11.13
- ***************************-------------------
-Average: 3.14
- OTAK-OTAK 2021 603
- 2022 673 70 11.61
- 2023 740 67 9.96
- ***************************-------------------
-Average: 10.79
- POPIAH 2021 775
- 2022 649-126-16.26
- 2023 678 29 4.47
- ***************************-------------------
-Average:-5.90
- ROJAK 2021 742
- 2022 531-211-28.44
- 2023 640 109 20.53
- ***************************-------------------
-Average:-3.96
- SATE AYAM 2021 693
- 2022 646-47-6.78
- 2023 666 20 3.10
- ***************************-------------------
-Average:-1.84
- SPRING ROLLS 2021 752
- 2022 793 41 5.45
- 17
-BAIT3003DataWarehouseTechnology
- 2023 844 51 6.43
- ***************************-------------------
-Average: 5.94
- TAKOYAKI 2021 592
- 2022 708 116 19.59
- 2023 687-21-2.97
- ***************************-------------------
-Average: 8.31
- TEMPURA 2021 626
- 2022 646 20 3.19
- 2023 661 15 2.32
- ***************************-------------------
-Average: 2.76
- WANTON 2021 606
- 2022 621 15 2.48
- 2023 669 48 7.73
- ***************************-------------------
-Average: 5.11
+### 5.1 Sales Trends Analysis Appetizer Items in Q4 (2021-2023)    
+![image](https://github.com/user-attachments/assets/b9749953-77cd-447c-8eac-c7003e275f04)
+![image](https://github.com/user-attachments/assets/00d62355-1710-4359-9768-b87be767082a)
+
 ### 5.2 2023-2024 Average Monthly Quantity and Order Changes for Appetizer Items
 
 
